@@ -1,27 +1,21 @@
-# package_name
+# ufos
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+This an example package made for studies only. It provides functions with information about UFOs.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install ufos
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from ufos import countries
+countries.countries_aliens_been()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Eduardo Vitor
